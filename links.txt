@@ -1,0 +1,17 @@
+https://www.kaggle.com/laowingkin/fifa-18-find-the-best-squad
+
+https://www.kaggle.com/laowingkin/fifa-18-predict-player-s-positions
+
+https://www.kaggle.com/skalskip/fifa-18-data-exploration-and-d3-js-visualization
+
+
+#Django tutorial
+
+https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+#import csv
+https://django-csv-importer.readthedocs.io/en/latest/
+
+https://simpleisbetterthancomplex.com/packages/2016/08/11/django-import-export.html
+
+https://stackoverflow.com/questions/26299492/how-to-execute-python-code-by-django-html-button?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
